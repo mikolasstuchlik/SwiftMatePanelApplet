@@ -1,5 +1,14 @@
+
+xcuserdata/
 .DS_Store
 /.build
+/.docs.old
+/docs
 /Packages
 /*.xcodeproj
-xcuserdata/
+Package.pins
+Package.resolved
+Gtk.tgz
+*-*.swift
+*-*.swift.out
+.swiftpm
