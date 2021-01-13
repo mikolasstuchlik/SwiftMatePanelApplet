@@ -1,3 +1,3 @@
 # SwiftMatePanelApplet
 
-A description of this package.
+This project is WIP wrapper for Mate Panel Applet API.
