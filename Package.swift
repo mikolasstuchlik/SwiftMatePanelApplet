@@ -9,7 +9,7 @@ let package = Package(
         .executable(
             name: "MatePanelAppletDemo",
             targets: ["MatePanelAppletDemo"]
-        )
+        ),
         .library(
             name: "MatePanelApplet",
             targets: ["MatePanelApplet"]
@@ -33,6 +33,6 @@ let package = Package(
         .target(
             name: "MatePanelAppletDemo", 
             dependencies: ["MatePanelApplet"]
-        )
+        ),
     ]
 )
